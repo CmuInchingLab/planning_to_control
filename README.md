@@ -5,5 +5,6 @@ Get plan and send messages to controller
 
 TODO:
 1) Connect with planner to get plan
-2) Fix message type to be compatible with controller
+2) Make sure controller is using similar message 
+3) How to send plan at the right time... check for location? 
 

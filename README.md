@@ -1,4 +1,4 @@
-# planner_toControl
+# planner_to_control
 Get plan and send messages to controller
 
 **NOTE: THIS WORKS WITH THE "andrew" BRANCH OF SCARAB GAZEBO.**

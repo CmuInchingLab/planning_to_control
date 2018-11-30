@@ -1,7 +1,7 @@
 # planner_to_control
 Get plan and send messages to controller
 
-**NOTE: THIS WORKS WITH THE "andrew" BRANCH OF SCARAB GAZEBO.**
+**NOTE: THIS WORKS WITH THE "master" BRANCH OF SCARAB GAZEBO.**
 
 TODO:
 1) Connect with planner to get plan
